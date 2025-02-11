@@ -1,4 +1,4 @@
-namespace KeycloackWebApi
+﻿namespace KeycloackWebApi.Models
 {
     public class WeatherForecast
     {
